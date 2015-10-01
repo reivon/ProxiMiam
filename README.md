@@ -53,7 +53,7 @@ Accès à la console magique : ctrl + shift + p + install
  * F3											Poursuivre la recherche au suivant
  * shift + F3									Poursuivre la recherche au précédent
  * ctrl + h 									Cherche et remplace
- * ctrl + f  <code> puis alt + enter 			Cherche et sélectionne tout pour remplacer
+ * ctrl + f  "code" puis alt + enter 			Cherche et sélectionne tout pour remplacer
 
  * ctrl + n 									Nouveau tab
 
