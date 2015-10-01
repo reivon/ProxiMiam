@@ -1,0 +1,21 @@
+[
+	{
+		"name" : "Yakamoz",
+		"Type" : "Kebab",
+		"Logo" : "",
+		"cartes" : [
+			{
+				"nom" : "Sandwich brochettes poulet",
+				"etape" : ["etape1"],
+				"categorie" : "main"
+			}
+		],
+		"menus" : [
+			{
+				"nom" : "Menu Sandwich brochettes poulet",
+				"Etape1" : "etape1"
+			}
+		]
+	}
+]
+
