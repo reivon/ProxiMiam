@@ -23,6 +23,7 @@ Accès à la console magique : ctrl + shift + p + install
  * GitGutter					/* Permet d'intégrer une visualisation des modifications du code par rapport au repo Git. */
  * Markdown Light				/* Permet de visualiser en direct un fichier Markdown (.md) - https://packagecontrol.io/packages/MarkdownLight */
  * Sublime Linter 3			/* Permet d'utiliser les différents plugin "hint" analysant le code à la recherche d'erreur syntaxique https://scotch.io/tutorials/how-to-catch-your-errors-in-sublime-text-3 */
+ * Typescript                   /* Permet d'éditer et contrôler des fichiers typescript .ts (command palett : "show error") */
 
 ### Quelques raccourcis
 

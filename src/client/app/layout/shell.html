@@ -1,0 +1,19 @@
+<div ng-controller="Shell as vm">
+    <!-- <div id="splash-page" data-ng-show="vm.showSplash" class="dissolve-animation">
+        <div class="page-splash">
+            <div class="page-splash-message">
+                Modular Demo
+            </div>
+        </div>
+    </div> -->
+
+    <header class="clearfix">
+        <div ng-include="app/layout/topnav.html"></div>
+    </header>
+
+    <section id="content" class="content">
+        <div ng-include="app/layout/sidebar.html"></div>
+
+        <div ng-view></div>
+    </section>
+</div>

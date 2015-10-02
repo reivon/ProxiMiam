@@ -1,0 +1,72 @@
+[
+	{
+		"name" : "Yakamoz",
+		"mealType" : "Kebab",
+		"type" : "Emporter / Sur place",
+		"description" : "",
+		"adress" : "",
+		"meals" : [
+			{
+				"name" : "Sandwich brochettes poulet",
+				"description" : "",
+				"price" : 6.50,
+				"category" : "principal"
+			},
+			{
+				"name" : "Sandwich brochettes agneau",
+				"price" : 6.50,
+				"category" : "principal"
+			},
+			{
+				"name" : "Assiette",
+				"description" : "Servi avec des frites, sauce à choisir inclus",
+				"price" : 7.50,
+				"category" : ""
+			},
+			{
+				"name" : "Poivre",
+				"price" : 0.50,
+				"category" : "sauce"
+			},
+			{
+				"name" : "Mayonnaise",
+				"price" : 0.50,
+				"category" : "sauce"
+			}
+		],
+		"menus" : [
+			{
+				"name" : "Menu Sandwich brochettes poulet",
+				"Description" : "Avec frites + sauce",
+				"price" : 7.50
+			},
+			{
+				"name" : "Menu Sandwich brochettes agneau",
+				"price" : 7.50
+			}
+		]
+	},
+	{
+		"name" : "Sushi kyo",
+		"mealType" : "Japonais",
+		"type" : "Emporter/Sur place",
+		"description" : "",
+		"adress" : "",
+		"meals" : [
+		],
+		"menus" : [
+		]
+	},
+	{
+		"name" : "L'art du pain",
+		"mealType" : "Sandwicherie",
+		"type" : "Emporter",
+		"description" : "",
+		"adress" : "",
+		"meals" : [
+		],
+		"menus" : [
+		]
+	}
+]
+
