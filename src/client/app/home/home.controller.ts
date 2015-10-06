@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-	angular.controller('ngAppDemoController', function($scope) {
+	angular.controller('HomeController', function($scope) {
 	  $scope.a = 1;
 	  $scope.b = 2;
 	});
