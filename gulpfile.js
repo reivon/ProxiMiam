@@ -7,6 +7,7 @@
 // ********************* LOAD MODULES ********************* 
 var gulp = require('gulp');
 var uglify = require('gulp-uglify');
+var minifyCss = require('gulp-minify-css');
 var concat = require('gulp-concat');
 var ts = require('gulp-typescript');
 //var sourcemaps = require('gulp-sourcemaps'); // utilité ?
@@ -102,6 +103,16 @@ gulp.task('serve-dev', function() {
         mode: 'dev'
     });
 });
+
+/*gulp.task('develop', function(){
+  gulp.start('scripts');
+  nodemon({ 
+    script: './server.js',
+    env: { 'NODE_ENV': 'development' },
+    ignore: ['public/dist/']
+  })
+  .on('start', ['watch-public']);
+});*/
 
 /**
  * serve the build environment
